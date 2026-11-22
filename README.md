@@ -37,7 +37,7 @@ built on a managed backend with edge webhook ingress.
 [Code](https://github.com/ryanakml/wabrix) ·
 [Live site](https://wabrix.nylo.me/)
 
-### [Deadbolt](https://github.com/ryanakml/Deadbolt) *(in progress)*
+### [Deadbolt](https://github.com/ryanakml/Deadbolt)
 A workflow engine exploring how work recovers when a worker disappears:
 Go control plane, PostgreSQL state, and explicit worker ownership.
 
